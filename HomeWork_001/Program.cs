@@ -15,9 +15,9 @@ int b = Convert.ToInt32(numberStr2);
 
 if (a > b)
 {
-    Console.Write(a);
+    Console.Write(a + " больше " + b);
 }
 else 
 {
-    Console.Write(b);
+    Console.Write(b +" больше "+ a);
 }
