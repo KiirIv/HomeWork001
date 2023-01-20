@@ -16,15 +16,9 @@ int b = Convert.ToInt32(numberStr2);
 Console.WriteLine("введите третье число");
 string numberStr3 = Console.ReadLine();
 int c = Convert.ToInt32(numberStr3);
-int max = 0;
-
-if (a > b)
-{ max = a; }
-if (a > c)
-{ max = a; }
-else if (c > b)
+int max = a;
+if (b > max)
+{ max = b ;}
+if (c > max)
 { max = c; }
-else
-{ max = b; }
-
 Console.WriteLine(max);

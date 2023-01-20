@@ -3,3 +3,13 @@ D:\HomeWork\HomeWork_003\obj\Debug\net6.0\HomeWork_003.GeneratedMSBuildEditorCon
 D:\HomeWork\HomeWork_003\obj\Debug\net6.0\HomeWork_003.AssemblyInfoInputs.cache
 D:\HomeWork\HomeWork_003\obj\Debug\net6.0\HomeWork_003.AssemblyInfo.cs
 D:\HomeWork\HomeWork_003\obj\Debug\net6.0\HomeWork_003.csproj.CoreCompileInputs.cache
+D:\HomeWork\HomeWork_003\bin\Debug\net6.0\HomeWork_003.exe
+D:\HomeWork\HomeWork_003\bin\Debug\net6.0\HomeWork_003.deps.json
+D:\HomeWork\HomeWork_003\bin\Debug\net6.0\HomeWork_003.runtimeconfig.json
+D:\HomeWork\HomeWork_003\bin\Debug\net6.0\HomeWork_003.dll
+D:\HomeWork\HomeWork_003\bin\Debug\net6.0\HomeWork_003.pdb
+D:\HomeWork\HomeWork_003\obj\Debug\net6.0\HomeWork_003.dll
+D:\HomeWork\HomeWork_003\obj\Debug\net6.0\refint\HomeWork_003.dll
+D:\HomeWork\HomeWork_003\obj\Debug\net6.0\HomeWork_003.pdb
+D:\HomeWork\HomeWork_003\obj\Debug\net6.0\HomeWork_003.genruntimeconfig.cache
+D:\HomeWork\HomeWork_003\obj\Debug\net6.0\ref\HomeWork_003.dll

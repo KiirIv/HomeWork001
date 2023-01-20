@@ -8,12 +8,8 @@
 Console.WriteLine("введите число");
 string numberStr = Console.ReadLine();
 int a = Convert.ToInt32(numberStr);
-
-if (a / 2)
-{ 
-    Console.WriteLine("число чётное");
-     }
+int b = a % 2;
+if (b == 0)
+{  Console.WriteLine("число чётное"); }
 else 
-{ 
-    Console.WriteLine("число нечётное"); 
-    }
+{ Console.WriteLine("число нечётное"); }
