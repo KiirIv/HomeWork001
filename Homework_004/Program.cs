@@ -10,5 +10,6 @@ int a = Convert.ToInt32(numberStr);
 
 
 for (int i = 1; i <= a; i += 1)
- if (i % 2 == 0 )
- Console.Write(i + ", ");
+{ if (i % 2 == 0 )
+ {Console.Write(i + ", ");}
+}
